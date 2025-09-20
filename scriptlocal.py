@@ -1,4 +1,4 @@
 import numpy as np 
-import panads as pd 
+import pandas as pd 
 for i in range(10):
     print("*"*i ,"\n")
